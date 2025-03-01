@@ -1,0 +1,51 @@
+.footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: #1DA1F2;
+            border-top: 0px solid gray;
+            display: flex;
+            justify-content: space-around;
+            padding: 5px 0;
+        }
+        .footer button {
+            background-color: transparent; /* Color del botón */
+            color: #fff; /* Color del texto */
+            border: 0px solid #fff;
+            border-radius: 20px;
+            padding: 5px 5px;
+            cursor: pointer;
+            font-size: 14px;
+            width: 30vw;
+        }
+        .footer button:hover {
+            background-color: #0095f6; /* Color al pasar el cursor */
+        }
+        
+        
+        .footer button:hover {
+            background-color: #0095f6; /* Color al pasar el cursor */
+        }     
+        
+ .chat-button {
+            background-image: url('.jpg');
+            background-size: 40px 40px;
+            background-position: center;
+            position: fixed;
+            bottom: 55px;
+            right: 20px;
+            background-color: #149249;
+            color: white;
+            border: 0px solid #1DA1F2;
+            border-radius: 100%;
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            cursor: pointer;
+            font-size: 24px;
+        }
+               
